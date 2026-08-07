@@ -45,6 +45,7 @@ This project emphasizes:
 📱 Deployment Plan
 
 This model is designed for real-world usability.
+
 Mobile Application
 - Built using Flutter
 - Users can:
