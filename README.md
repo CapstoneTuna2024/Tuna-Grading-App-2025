@@ -46,7 +46,6 @@ This project emphasizes:
 
 This model is designed for real-world usability.
 
-Mobile Application
 - Built using Flutter
 - Users can:
   - Capture tuna loin images directly
