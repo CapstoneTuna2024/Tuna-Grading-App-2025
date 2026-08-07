@@ -1,6 +1,8 @@
 # Tuna-Grading-App-2025
 This project focuses on automating tuna loin quality grading using computer vision and deep learning. The goal is to develop an objective, consistent, and scalable system that classifies tuna loin into three quality grades based on color and texture characteristics.
 
+Disclaimer: The app itself no longer works due to the stop in subscription of GCP. Otherwise, all code used in the project can still be read and used.
+
 📌 Background
 Tuna loin grading in the industry is typically performed manually by human experts. This process is:
 - Subjective
