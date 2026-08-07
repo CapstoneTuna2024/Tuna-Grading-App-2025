@@ -25,6 +25,7 @@ EfficientNetV2-M was chosen due to its:
 - Suitability for deployment in mobile/cloud environments
 
 ⚠️ Real-World Challenge
+
 One of the main difficulties in this project is inconsistent lighting conditions during image capture.
 Several preprocessing techniques were explored:
 - Shades of Gray (SOG)
@@ -34,6 +35,7 @@ Several preprocessing techniques were explored:
 However, these methods altered important color characteristics critical for grading accuracy. Therefore, preprocessing strategies were carefully evaluated to preserve color fidelity while improving robustness.
 
 🔬 Research Focus
+
 This project emphasizes:
 - Robust classification under varying lighting conditions
 - Preservation of critical color features
@@ -41,6 +43,7 @@ This project emphasizes:
 - Deployment-ready deep learning architecture
 
 📱 Deployment Plan
+
 This model is designed for real-world usability.
 Mobile Application
 - Built using Flutter
@@ -54,6 +57,7 @@ Mobile Application
 This enables scalable grading without requiring high-compute devices on-site.
 
 🚀 Future Improvements
+
 - Advanced color constancy algorithms
 - Domain adaptation for lighting variability
 - Model optimization for edge deployment
